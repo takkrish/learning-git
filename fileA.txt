@@ -1,3 +1,8 @@
 Hello
 Feature Added 1 : Feature Branch
 Feature 2 : Add a new feature
+
+Developing some features : developer branch
+
+Added Feature 1 : feature1 branch
+(#### -- bug : feature1 branch) : Bug fixed : release1 branch
