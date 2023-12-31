@@ -6,3 +6,7 @@ Developing some features : developer branch
 
 Added Feature 1 : feature1 branch
 ((#### -- bug : feature1 branch) : Bug fixed : release1 branch ) -- FIXED EVERYTHING : hotfix1 branch
+
+Working on feature 2 : feature2 branch
+Implementing Feature 2 : feature2 branch
+Implemented Feature 2 Successfully : feature2 branch
